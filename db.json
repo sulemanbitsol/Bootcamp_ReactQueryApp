@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "Muhammad Hamza Abid",
+      "age": "25",
+      "company": "Virtual Sights",
+      "id": 1
+    },
+    {
+      "name": "Muhammad Suleman",
+      "age": "25",
+      "company": "BitsolTechnologies",
+      "id": 2
+    }
+  ]
+}
